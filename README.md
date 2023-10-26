@@ -3,7 +3,7 @@
 ***
 * Following code can do:
 ***
->Insert Operation
->Delete Operation
->Show Users
->Update Information
+1. Insert Operation
+2. Delete Operation
+3. Show Users
+4. Update Information
